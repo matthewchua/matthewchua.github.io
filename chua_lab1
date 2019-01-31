@@ -1,0 +1,125 @@
+<html>
+	<head>
+			<title>LBYEC2A</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+	</head>
+	<body>
+		
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <a href="http://www.lebronjames.com/">
+                      <img src="lbj.jfif">
+                    </a>
+                    
+                    <h1> Matthew Chua </h1>
+                    <h2> Student </h2>
+
+                    <ul>
+                        <li>Hardworking</li>
+                        <li>Studious</li>
+                        <li>Respectful</li>
+                        <li>Honest</li>
+                    </ul>
+                </div>
+                 <div class="col">
+                     <h3> Matthew Chua</h3>
+                     <h4> matthew_hendric_chua@dlsu.edu.ph </h4>
+                     <h5>607 Ilang Ilang St. Binondo, Manila </h5>
+                     
+                     <!-- education stuff here -->
+                     <section id="education">
+                            <h2> EDUCATION </h2>
+                         
+                            <div class="row">
+                                     <div class="col">
+                                           2018-Present	 	
+                                     </div>
+                                     <div class="col">
+                                           DE LA SALLE UNIVERSITY 
+                                           Bachelor of Science degree in Industrial Engineering. 
+
+                                     </div>
+                            </div>
+                            <div class="row">
+                                     <div class="col">
+                                            2016-2018 	                 
+                                     </div>
+                                     <div class="col">
+                                            SAINT JUDE CATHOLIC SCHOOL 
+                                            Senior High School Diploma, May, 2018
+                                     </div>
+                            </div>
+                            <div class="row">
+                                     <div class="col">
+                                            2012-2016  
+                                     </div>
+                                     <div class="col">
+                                            SAINT JUDE CATHOLIC SCHOOL 
+                                            High School Diploma, May 2016. 
+                                     </div>
+                            </div>
+                         
+                    <!-- CO-CURRICULAR ACTIVITIES stuff here -->
+                    <h2> CO-CURRICULAR ACTIVITIES </h2>
+
+                            <div class="row">
+                                     <div class="col">
+                                           2017-2018 	
+                                     </div>
+                                     <div class="col">
+                                           LOGISTICS COMMITTEE, SAINT JUDE CATHOLIC SCHOOL
+	                                       Helped in preparing stage flows and props on or before programs.
+                                     </div>
+                            </div>
+                           
+                                
+                    <!-- SEMINARS ATTENDED stuff here -->
+                    <h2> SEMINARS ATTENDED </h2>
+
+                            <div class="row">
+                                     <div class="col">
+                                            November 2018
+                                     </div>
+                                     <div class="col">
+                                            IS MED FOR ME 
+                                            College of Engineering, De La Salle University 
+                                     </div>
+                            </div>
+                            <div class="row">
+                                     <div class="col">
+                                            March 2017                  
+                                     </div>
+                                     <div class="col">
+                                            UPJFA INVESTMENT SUMMIT
+                                            UPJFA, Sm Aura
+                                     </div>
+                            </div>
+                            <div class="row">
+                                     <div class="col">
+                                            February 2016
+                                     </div>
+                                     <div class="col">
+                                            LEADERSHIP TRAINING
+                                            Student Council Office, Saint Jude Catholic School
+                                     </div>
+                            </div>
+                      
+                         <h2> PERSONAL BACKGROUND </h2>
+
+                           
+                                     <div class="col">
+                                            
+                                     </div>
+                                     <div class="col">
+                                           Born on January 24, 1993 in Manila, Philippines. Fluent in English,Filipino and Chinese. Knowledgeable in Microsoft programs and Auto-Cad programs. Interests: Basketball, Reading Books, and Travelling.
+
+                                    </div> 
+                     </section>
+             
+                </div>
+            </div>
+        </div>
+	
+     </body>
+</html>

@@ -1,0 +1,69 @@
+h1{
+    color:#FFD23F;
+}
+body{
+    background-color:#FFD23F
+        
+}
+h2{
+    color:#540D6E;
+}
+#col {
+    font-size:2em;
+    background-color:#540D6E;
+    width: 10cm;
+    margin-left: 15
+}
+li{ color:#FFD23F;   
+}
+.bron{
+    border-radius: 100%
+}
+h3{
+    color:#540D6E;
+}
+h4{
+    color:#540D6E;
+}
+h5{
+    color:#540D6E;
+}
+
+#left {
+    height: 100vh
+}
+
+#matthew {
+    margin-left: 40;
+    margin-top: 20;
+}
+
+#leb{
+    margin-left: 30;
+    margin-top: 40;
+}
+
+#side{
+    margin-left: 45;
+
+}       
+#mc {
+    margin-top: 50
+}
+
+#edu{
+    margin-top: 85
+        
+}
+#cocu{
+    margin-top: 75
+        
+}
+#semi{
+    margin-top: 75
+        
+}
+#pb{
+    margin-top: 75
+        
+}
