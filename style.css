@@ -1,69 +1,87 @@
-h1{
-    color:#FFD23F;
+body
+{
+    background-color: red;
 }
-body{
-    background-color:#FFD23F
-        
+h3 {
+    color: indianred;
+    text-transform: capitalize;
 }
-h2{
-    color:#540D6E;
+.container{
+    background-color: lightpink;
 }
-#col {
-    font-size:2em;
-    background-color:#540D6E;
-    width: 10cm;
-    margin-left: 15
+.row{
+    margin: auto;
 }
-li{ color:#FFD23F;   
+#header{
+    border: solid;
+    border-color: #888888;
+    background-color: white;
 }
-.bron{
-    border-radius: 100%
+#row a {
+  display: block;
+  width: 60px;
 }
-h3{
-    color:#540D6E;
+#navBar {
+    margin: 0;
+    padding: 0;
+    position: sticky;
+    top: 1;
+    background-color: rgb(153, 153, 153);
 }
-h4{
-    color:#540D6E;
+#body{
+    border: solid;
+    border-color: black;
+    margin: 10px;
+    padding: 10px;
 }
-h5{
-    color:#540D6E;
-}
-
-#left {
-    height: 100vh
-}
-
-#matthew {
-    margin-left: 40;
-    margin-top: 20;
-}
-
-#leb{
-    margin-left: 30;
-    margin-top: 40;
-}
-
-#side{
-    margin-left: 45;
-
-}       
-#mc {
-    margin-top: 50
+.col a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+    overflow: auto;
 }
 
-#edu{
-    margin-top: 85
-        
+.col a:hover {
+  background-color: #111;
 }
-#cocu{
-    margin-top: 75
-        
+#dp {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    right: 0;
 }
-#semi{
-    margin-top: 75
-        
+#To {
+    padding: 10px;
+    left: 0px;
+    text-align: left;
 }
-#pb{
-    margin-top: 75
-        
+#by {
+    padding: 10px;
+    right: 0;
+    text-align: right;
+}
+#tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+#message{
+    margin: 10px;
+    padding: 10px;
+}
+#tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
 }
